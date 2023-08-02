@@ -1,4 +1,6 @@
-# Action Potential prediction -- Intermediary datastore.
+# Discontinued/Archived activity
+
+## Action Potential prediction -- Intermediary datastore.
 
 `AP-Nimbus`'s `datastore` "REST" API endpoint to a database.  
 It's used to (very nearly <sup>1</sup>) avoid direct `client-direct` <==> `app-manager`
